@@ -1,0 +1,17 @@
+C:\Projetos\Desafios\Calculadora\bin\Debug\net6.0-windows\Calculadora.exe
+C:\Projetos\Desafios\Calculadora\bin\Debug\net6.0-windows\Calculadora.deps.json
+C:\Projetos\Desafios\Calculadora\bin\Debug\net6.0-windows\Calculadora.runtimeconfig.json
+C:\Projetos\Desafios\Calculadora\bin\Debug\net6.0-windows\Calculadora.dll
+C:\Projetos\Desafios\Calculadora\bin\Debug\net6.0-windows\ref\Calculadora.dll
+C:\Projetos\Desafios\Calculadora\bin\Debug\net6.0-windows\Calculadora.pdb
+C:\Projetos\Desafios\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.AssemblyReference.cache
+C:\Projetos\Desafios\Calculadora\obj\Debug\net6.0-windows\Calculadora.Form1.resources
+C:\Projetos\Desafios\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.GenerateResource.cache
+C:\Projetos\Desafios\Calculadora\obj\Debug\net6.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Desafios\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfoInputs.cache
+C:\Projetos\Desafios\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfo.cs
+C:\Projetos\Desafios\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+C:\Projetos\Desafios\Calculadora\obj\Debug\net6.0-windows\Calculadora.dll
+C:\Projetos\Desafios\Calculadora\obj\Debug\net6.0-windows\ref\Calculadora.dll
+C:\Projetos\Desafios\Calculadora\obj\Debug\net6.0-windows\Calculadora.pdb
+C:\Projetos\Desafios\Calculadora\obj\Debug\net6.0-windows\Calculadora.genruntimeconfig.cache
